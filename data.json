@@ -1,0 +1,47 @@
+{
+   "basicdetails":{
+   	  "image":"koala.jpg",
+   	  "name":"K.Tulasi",
+   	  "email":"tuiasi.karasala@gmail.com",
+   	  "phone":"9603269066",
+  	  "address":"1-82,guntur(ds)"
+   	},
+"education":[
+
+	{
+		"course":"B.tech(c.s.e)",
+		"college":"vignan nirula",
+		"percentage":"72%"
+	},
+	{
+		"course":"intermediate(m.p.c)",
+		"college":"sri chaitanya jr college",
+		"percentage":"85%"
+	},
+    {
+		"course":"ssc",
+		"college":"pragathi talent school",
+		"percentage":"85%"
+	}
+],
+"skills":[
+	{
+       "name":"Operating systems",
+       "value":"Windows,Linux,MAC"
+	},
+	{
+       "name":"Programming Language",
+       "value":"C,C++,Java,Python"
+	}
+],
+"carrier":{
+"ca":"to obtain position in information technology industry where i utilize my knowledge"
+
+},
+"Achements":[
+     "i got first prize in my clg"
+],
+"Description":{
+	"des":"i there by delcare that all abive mentioned "
+}
+}
